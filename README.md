@@ -6,7 +6,6 @@
 
 ## Student Details
 - **Name:** Kethavath Sai Kiran
-- **Roll No:** S20220020286
 - **Course:** System on Chip (SoC) Design
 
 ---
